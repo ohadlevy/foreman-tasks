@@ -13,3 +13,4 @@ locale/*.mo
 locale/*/*.pox
 locale/*/*.edit.po
 locale/*/*.po.time_stamp
+node_modules

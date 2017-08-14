@@ -1,7 +1,7 @@
 <% title _("Tasks") %>
 <% title_actions csv_link, help_button %>
 <% stylesheet 'foreman_tasks/tasks' %>
-
+<%= javascript_include_tag *webpack_asset_paths('taskscore', :extension => 'js'), "data-turbolinks-track" => true %>
 <script>
 
 var currentTwoPaneTask;
