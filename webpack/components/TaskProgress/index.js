@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+// import Store from 'ForemanReact/'
+import UUID from 'uuid'
 import ProgresBar from '../common/progressBar';
 
 class TaskProgress extends Component {

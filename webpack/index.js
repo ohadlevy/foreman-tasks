@@ -7,7 +7,7 @@ const reactNode = document.querySelector('#content');
 if (reactNode) {
   ReactDOM.render(
     <div>
-      <TaskProgress percent="10"/>
+      <TaskProgress percent="15"/>
     </div>,
     reactNode
   );

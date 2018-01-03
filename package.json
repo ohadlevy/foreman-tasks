@@ -6,6 +6,7 @@
   "author": "Ohad Levy <ohadlevy@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "uuid": ">1.0"
   },
   "devDependencies": {
     "babel-cli": "^6.10.1",

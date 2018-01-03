@@ -12,7 +12,7 @@ const progresBar = ({ percent = '0' }) => {
         style={{ width: percent + '%' }}
       >
         <span className="sr-only">
-          {percent}% complete
+          {percent}% __('complete')
         </span>
       </div>
     </div>
